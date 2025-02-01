@@ -8,7 +8,7 @@ function App() {
     <>
       <Header />
       <h1 className="text-7xl font-bold">React</h1>
-      <Main></Main>
+      <Main />
       <button className="btn btn-primary">DaisyUi</button>
       <Footer />
     </>
